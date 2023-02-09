@@ -64,19 +64,22 @@
     background-size: 100% 500%;
     background-position: 0 40%;
 }
-
 .container, p {
     background: #081883;
     color: #fff;
-    
 }
+  .container, h1{
+    margin-left: 100px;
+    padding-left: 20px;
+  }  
+
 
 .image-logo{
     background: #081883;
     display: flex;
-    align-items: center;
+    text-align: center;
     justify-items: center;
-    padding: 0px
+
 }
 .side-nav:hover{
     animation: backcolor 20s linear infinite reverse;
