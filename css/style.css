@@ -75,10 +75,13 @@
 
 
 .image-logo{
+    height: 100%;
     background: #081883;
     display: flex;
     text-align: center;
     justify-items: center;
+    /* margin: 0 auto; */
+    padding-left: 20px;
 
 }
 .side-nav:hover{
@@ -155,7 +158,7 @@
 #tenho-interesse form,
 .cognito.c-med .c-forms-form,
 .cognito.c-med .c-forms-form div {
-    background-color: #081883 !important;
+    background-color: #c8cbdd !important;
 }
 
 #tenho-interesse .cognito .c-forms-form .c-forms-form-title h2,
